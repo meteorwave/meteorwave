@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @meteorwave
+- 👀 I’m interested in applying my newly aquired skills in programming to good use.  
+- 🌱 I’m currently learning C, C++, Python, SQL, & Swift
+- 💞️ I’m looking to collaborate on iOS or Android Apps, websites, & video games. 
+- 📫 How to reach me:  @appleTVgaming on Twitter  
